@@ -2,7 +2,7 @@
 
 int main(void)
 {
-  printf("%s\n", "yaroslav.kharchenko");
+  printf("%s\n", "kharchenko.yaroslav");
   return 0;
 }
 
