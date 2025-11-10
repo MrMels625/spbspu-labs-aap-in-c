@@ -1,0 +1,25 @@
+# Binary
+*.out
+*.o
+*.a
+
+# Ed
+*.bak
+*.backup
+*%
+
+# Nano
+*.save
+*.swp
+
+# Vim
+*.swo
+.*.swp
+.*.un~
+*.un~
+
+# Emacs
+*~
+\#*#
+.\#*
+
