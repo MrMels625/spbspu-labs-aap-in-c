@@ -2,8 +2,8 @@
 
 int main(void)
 {
-  size_t a = printf("%s", "kharchenko.yaroslav");
-  printf(" %d\n", a);
+  int val = printf("kharchenko.yaroslav");
+  printf(" %d\n", val);
   return 0;
 }
 
